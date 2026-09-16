@@ -71,7 +71,7 @@ Learning project focused on Java Persistence API and Spring Data JPA.
 
 ---
 
-## 🤝 Connect With Me
+
 
 <p align="center">
   <a href="https://github.com/MehdiTaleb">
