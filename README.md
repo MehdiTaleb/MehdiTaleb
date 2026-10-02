@@ -44,10 +44,10 @@
 ## 🚀 Featured Projects
 
 
-Learning project focused on Java Persistence API and Spring Data JPA.
+Learning project focused on Java Persistence API and Spring spring boot.
 
 **Technologies:**
-`Java` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `H2` • `Maven`
+`Java` • `Spring Boot` • `SqlServer` • `Angular` • `DotNet`
 
 👉 Check out all my projects in my repositories.
 
